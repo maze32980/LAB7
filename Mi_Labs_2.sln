@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi_Labs_2", "Mi_Labs_2\Mi_Labs_2.csproj", "{8ADBBDEE-7E31-4BDB-8C6D-3365C4CD86E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi_Labs_2_Test", "Mi_Labs_2_Test\Mi_Labs_2_Test.csproj", "{4BE29B12-249F-4DF5-9CC3-E2C20F4E4F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADBBDEE-7E31-4BDB-8C6D-3365C4CD86E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADBBDEE-7E31-4BDB-8C6D-3365C4CD86E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADBBDEE-7E31-4BDB-8C6D-3365C4CD86E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADBBDEE-7E31-4BDB-8C6D-3365C4CD86E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE29B12-249F-4DF5-9CC3-E2C20F4E4F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE29B12-249F-4DF5-9CC3-E2C20F4E4F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE29B12-249F-4DF5-9CC3-E2C20F4E4F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE29B12-249F-4DF5-9CC3-E2C20F4E4F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5409C0C-92FB-4B74-9CBE-97C069059E69}
+	EndGlobalSection
+EndGlobal
